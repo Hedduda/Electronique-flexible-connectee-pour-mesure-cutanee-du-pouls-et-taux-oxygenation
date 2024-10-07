@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/check.png</file>
+    <file>images/close.png</file>
+    <file>images/refresh.png</file>
+    <file>images/EMSE_LOGO.png</file>
+    <file>images/EMSE_LOGO_1.png</file>
+  </qresource>
+</RCC>
