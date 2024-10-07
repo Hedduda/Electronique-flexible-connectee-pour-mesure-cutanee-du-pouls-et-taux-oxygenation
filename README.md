@@ -1,0 +1,2 @@
+# Electronique-flexible-connectee-pour-mesure-cutanee-du-pouls-et-taux-oxygenation
+ProgrammationdelacarteSTM32pourlacollecteetl’envoiedesdonnéesàtraversuneliaison  série.  •Développementd’uneinterfacegraphiquepourvisualiserlesdonnéesenvoyées,configurerles  paramètresdusystèmeetcalculerletauxdesaturationenoxygèneetlerythmecardiaque.  •Outils:Python,ProgrammationC/C++,KiCad,STM32.
